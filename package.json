@@ -1,6 +1,6 @@
 {
-  "name": "@alanantony/template-react-component-library",
-  "version": "0.0.1",
+  "name": "@alanantony/template-react-component-librarie",
+  "version": "0.0.2",
   "description": "nala plugin",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
