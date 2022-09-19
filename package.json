@@ -1,5 +1,5 @@
 {
-  "name": "react-template-plugin",
+  "name": "@alanantony/template-react-component-library",
   "version": "0.0.1",
   "description": "nala plugin",
   "main": "dist/cjs/index.js",
@@ -8,6 +8,9 @@
     "dist"
   ],
   "types": "dist/index.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/alanantony8"
+  },
   "scripts": {
     "rollup": "rollup -c"
   },
